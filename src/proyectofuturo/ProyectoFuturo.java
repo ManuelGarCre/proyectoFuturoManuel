@@ -9,7 +9,7 @@ import static java.lang.Integer.parseInt;
 
 /**
  *
- * @author garcr
+ * @author Manuel García Cremades
  */
 public class ProyectoFuturo {
 
