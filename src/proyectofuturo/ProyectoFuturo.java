@@ -21,7 +21,7 @@ public class ProyectoFuturo {
         System.out.println("Estudiante " + args[0] + ": " + veredicto(args[1], args[2]));
     }
     
-    public static String veredicto(String modulos, String horas) {
+    private static String veredicto(String modulos, String horas) {
         String veredicto;
         
         if(modulos.equals(horas)){
